@@ -4,4 +4,4 @@
 
 ## Atividade resolvida
 
-- [Código-fonte](./)
+- [Código-fonte](./codigo-fonte)
